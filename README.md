@@ -1,3 +1,3 @@
-# Correct prackets formatter
+# Correct brackets formatter
 
-[https://correct-prackets.zgast.at/](https://correct-prackets.zgast.at/)
+[https://correct-brackets.zgast.at/](https://correct-brackets.zgast.at/)
